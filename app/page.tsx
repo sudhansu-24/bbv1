@@ -12,9 +12,10 @@ export default function Home() {
       <Hero />
       <FeaturedProperties />
       <MarketInsights />
+      
+      <StakingGovernance />
       <Portfolio />
       <Trading />
-      <StakingGovernance />
       <Testimonials />
     </main>
   )
